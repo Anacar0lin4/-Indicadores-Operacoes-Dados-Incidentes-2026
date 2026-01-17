@@ -10,4 +10,4 @@ mttr
 sql
 python
 databricks
-power-bi<img width="965" height="458" alt="image" src="https://github.com/user-attachments/assets/a126e9ec-00a9-4599-a0c4-4fed6f531ffc" />
+power-bi
